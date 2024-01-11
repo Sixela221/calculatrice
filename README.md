@@ -1,6 +1,5 @@
 Hi,
-here a calculator were you can choose your operator (+,-,/,*)
-code in c++ on Dev c++ 
+here a calculator were you can choose your operator (+,-,/,*).
+Code in c++ on Dev c++ 
 going to post more basic code
-see you
-Sxa
+see you.
